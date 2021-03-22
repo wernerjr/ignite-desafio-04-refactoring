@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { FormProps} from '@unform/core';
 import { Form as Unform } from '@unform/web';
 
 export const Form = styled(Unform)`

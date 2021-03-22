@@ -3,8 +3,8 @@ import { FiCheckSquare } from 'react-icons/fi';
 import { FormHandles } from '@unform/core';
 
 import { Form } from './styles';
-import Modal from '../Modal';
-import Input from '../Input';
+import { Modal } from '../Modal';
+import { Input } from '../Input';
 
 
 interface ModalAddFoodProps {
@@ -42,5 +42,3 @@ export function ModalAddFood({isOpen, setIsOpen, handleAddFood}: ModalAddFoodPro
       </Modal>
     );  
 };
-
-export default ModalAddFood;

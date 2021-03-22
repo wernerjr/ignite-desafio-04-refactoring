@@ -23,14 +23,6 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "bagual",
-      "price": "10.23",
-      "description": "é uma aprada bem loca",
-      "available": false,
-      "id": 4
     }
   ]
 }
